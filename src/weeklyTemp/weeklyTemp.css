@@ -1,0 +1,27 @@
+.weeklyTemp {
+  border: 5px solid black;
+  height: 100px;
+  margin: 20px 30px 20px 30px;
+  border-radius: 20px;
+  box-shadow: rgb(0, 0, 0) 0px 3px 20px 2px;
+}
+.weeklyTempSlots {
+  margin-top: 5px;
+  display: flex;
+  justify-content: space-around;
+  height: 75px;
+}
+
+.slot {
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  border: 3px solid black;
+  height: 65px;
+  width: 70px;
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 20px;
+  flex-direction: column;
+}

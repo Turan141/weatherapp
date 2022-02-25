@@ -1,0 +1,16 @@
+.weatherpic {
+  border: 5px solid #000000;
+  height: 150px;
+  border-radius: 20px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  box-shadow: rgb(0, 0, 0) 0px 3px 20px 2px;
+  
+}
+
+.cityname {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,11 @@
+.mainwindow {
+  border: 10px solid black;
+  width: 400px;
+  height: 500px;
+  margin-left: 20px;
+  margin-top: 20px;
+  border-radius: 20px;
+  background-color: #f3ca20;
+  box-shadow: rgb(0, 0, 0) 0px 3px 20px 2px;
+
+}

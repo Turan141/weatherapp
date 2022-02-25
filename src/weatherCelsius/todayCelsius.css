@@ -1,0 +1,26 @@
+.todaycelsius {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin: 30px 100px auto 100px;
+  font-size: 30px;
+  border: 7px solid #000000;
+  border-radius: 30%;
+  text-align: center;
+  height: 150px;
+  flex-direction: column;
+  box-shadow: rgb(0, 0, 0) 0px 3px 20px 2px;
+  background-color: #f3ca20;
+}
+
+.todaycelsius h2 {
+  font-size: 30px;
+  display: flex;
+  flex-direction: row;
+}
+
+.todaycelsius h1 {
+  font-size: 70px;
+  display: flex;
+  flex-direction: row;
+}
